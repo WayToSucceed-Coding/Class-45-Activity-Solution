@@ -1,7 +1,0 @@
-[theme]
-base = "light"
-primaryColor = "#FF6F61"              # Coral Pink – vibrant buttons & accents
-backgroundColor = "#FFF8E1"           # Light Cream – warm base background
-secondaryBackgroundColor = "#FFE0B2"  # Peach – sidebar or card elements
-textColor = "#4E342E"                 # Deep brown – soft contrast text
-font = "monospace"
